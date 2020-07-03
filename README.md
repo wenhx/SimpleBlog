@@ -1,0 +1,2 @@
+# SimpleBlog
+Just for practice.
